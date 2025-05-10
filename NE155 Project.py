@@ -158,7 +158,7 @@ for j in range(1, Ny - 1):
     b[idx_c] = S
 
 
-# In[5]:
+# In[8]:
 
 
 #A sparse matrix solver was used to calculate the neutron flux at every point in the grid. This
